@@ -1,0 +1,19 @@
+html {
+  background-color: ivory;
+  font-size: 18px;
+  font-family: Helvetica, sans-serif;
+}
+
+html body {
+  color: salmon;
+}
+
+.container-fluid {
+  width: 100%;
+}
+
+.container-cover {
+  height: 1440px;
+  color: snow;
+}
+/*# sourceMappingURL=style.css.map */

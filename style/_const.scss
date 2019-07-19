@@ -1,0 +1,16 @@
+$myFont: Helvetica, sans-serif;
+$myColor: salmon;
+$myFontSize: 18px;
+$myWidth: 680px;
+$myHeight: 300px;
+
+html{
+  background-color:ivory;
+  font-size: $myFontSize;
+  font-family: $myFont;
+  
+  body {
+    color: salmon;
+  }
+  
+}
